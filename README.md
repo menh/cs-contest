@@ -9,3 +9,21 @@
 
 * [iFLYTEK A.I.](http://challenge.xfyun.cn/2019/)
 > iFLYTEK A.I. 开发者大赛”是由科大讯飞发起的顶尖人工智能竞赛平台，汇聚产学研各界力量，面向全球开发者发起数据算法及创新应用类挑战，推动人工智能前沿科学研究和创新成果转化，培育人工智能产业人才，助力人工智能生态建设。
+
+* [datafountain](https://www.datafountain.cn/#/)
+> DF,CCF指定专业大数据竞赛平台
+
+* [kaggle](https://www.kaggle.com/)
+> 为数据科学家提供举办机器学习竞赛
+
+* [DataCastle](https://www.dcjingsai.com/common/cmptIndex.html)
+> 中国领先的数据科学竞赛平台
+
+* [KDD-CUP](https://www.kdd.org/kdd-cup)
+> 国际知识发现和数据挖掘竞赛
+
+* [JDD空间站](https://jdder.jd.com/)
+> 京东算法赛事平台
+
+* [赛氪网](http://www.saikr.com/)
+> 汇集以高校竞赛为主，活动、社区为辅的大学生竞赛活动平台
