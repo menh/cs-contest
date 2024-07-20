@@ -27,3 +27,22 @@
 
 * [赛氪网](http://www.saikr.com/)
 > 汇集以高校竞赛为主，活动、社区为辅的大学生竞赛活动平台
+
+#### AI类竞赛
+* [研习社](https://www.yanxishe.com)
+> 研习AI产学新知，助力AI学术开发者成长。
+  会定期发布一些AI竞赛，会有一定奖金，还有优秀算法分享
+
+* [极市开发者平台](http://www.cvmart.net)
+> CV开发者平台
+
+#### 算法类竞赛
+
+* [PAT](https://www.patest.cn)
+> 浙江大学主办的计算机程序设计能力比赛，参与后可拿到等级和评分
+
+* [CCF-CSP](http://www.cspro.org)
+> CCF 计算机职业资格认证
+
+* [leetcode](https://leetcode.com)
+> 每周会有竞赛
